@@ -11,6 +11,8 @@ div {
   padding: 30px;
   background-color: #fff;
   transition: opacity .3s ease-in-out;
+  padding-bottom: 4%;
+  background-color: #fffff3;
 }
 
 .header-logo{
@@ -96,6 +98,7 @@ a{
 .social-icons{
   font-size: 20px;
   margin-right: 4%;
+  padding-left: 3%;
 }
 
 .social-icons a{
@@ -127,3 +130,23 @@ a{
   font-family: "Genericons";
 }
 /* FOOTER END */
+
+// /* page-content start */
+// .list-of-main-articles{
+//   list-style-type: none;
+// }
+
+// .list-of-main-articles li{
+//   height: 500px;
+
+// }
+
+// .list-of-main-articles-li{
+//   float: left;
+//   width: 50%;
+//   height: 100%;
+//   position: relative;
+//   background-repeat: no-repeat;
+// }
+
+/* page-content end */
